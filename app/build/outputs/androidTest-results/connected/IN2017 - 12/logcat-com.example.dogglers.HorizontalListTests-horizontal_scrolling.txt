@@ -1,0 +1,575 @@
+08-24 10:44:29.607 24279 24302 I TestRunner: started: horizontal_scrolling(com.example.dogglers.HorizontalListTests)
+08-24 10:44:29.609 24279 24302 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-24 10:44:29.613  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.613  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.614 12841 13821 I Finsky  : [187] gkf.a(14): com.accuweather.android: Account determined from installer data - [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.614 24316 24470 D AppsFlyer_6.5.3: Initializing AppsFlyer SDK: (v6.5.3.168)
+08-24 10:44:29.614 12841 13821 I Finsky  : [187] gkf.a(63): Billing preferred account via installer for com.accuweather.android: [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.614  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.614  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.614  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.615  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.616   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:29.617  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.617  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.620  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.620  1980  4206 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+08-24 10:44:29.625  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.625  1980  5352 V SensorManager: call sensorServiceCommonInterface name: setScreenShotDisable
+08-24 10:44:29.625  1980  5352 D SensorService: SensorService sensorServiceCommonInterface = setScreenShotDisable
+08-24 10:44:29.625  1980  5352 D SensorServiceImpl: SensorServiceExtImpl sensorServiceCommonInterface funcName= setScreenShotDisable , flag =0, status =0
+08-24 10:44:29.625  1980  5352 I OplusHansManager : front pkg: com.example.dogglers, uid: 10498, prev pkg: com.android.launcher, prev uid: 10462
+08-24 10:44:29.625  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.625  1980  4487 I OplusHansManager : notifyAppGoForeground, uid=10498
+08-24 10:44:29.625  1980  3352 I OplusHansManager : uid=10498, pkg=com.example.dogglers R exit SM
+08-24 10:44:29.625  1980  3352 I OplusHansManager : uid=10498, pkg=com.example.dogglers R exit()
+08-24 10:44:29.625  1980  4487 I OplusHansManager : notifyAppGoBackground, uid=10462
+08-24 10:44:29.625  1980  3008 I Osense-DecisionMaker: notifySceneToPolicy...SCENE_APP_SWITCH
+08-24 10:44:29.626  1980  3008 D Osense-DecisionMaker: getCurrentSysStats, memMb: 2106
+08-24 10:44:29.626  1980  3358 I OplusResourcePreloadManager: resume pkg: com.example.dogglers, uid:10498, prev pkg: com.android.launcher, prev uid: 10462
+08-24 10:44:29.627  1980  3674 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.android.launcher hasResumingActivity = true resumingPackageName = com.example.dogglers resumingActivityName = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=17946, uid=10498}]}
+08-24 10:44:29.627  1980  7980 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.android.launcher to = com.example.dogglers
+08-24 10:44:29.627  1980  5352 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{ae695e5 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity t17946}
+08-24 10:44:29.628  1980  5352 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-24 10:44:29.628  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.629  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.629  1980  2064 V AppStateBroadcaster: sendApplicationFocusLoss:com.android.launcher
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hist_memory - 20.
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_length - 0.
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count - 3.
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/bw_hwmon/hist_memory - 20.
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/bw_hwmon/hyst_length - 0.
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/bw_hwmon/hyst_trigger_count - 3.
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /dev/stune/foreground/schedtune.prefer_idle - 0.
+08-24 10:44:29.629  1980  2064 V AppStateBroadcaster: sendApplicationFocusGain:com.example.dogglers
+08-24 10:44:29.629  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/devices/system/cpu/cpu_boost/input_boost_freq - 0:1324800 4:0 7:0.
+08-24 10:44:29.631  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.631 10450 10467 I [0]DCS-BackgroundAppData: sendAppBgEvent: has no pkgName=com.example.dogglers
+08-24 10:44:29.631 31700 23544 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-6  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:29.632 31700 23544 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-6  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:29.632 31700 31700 W DiagSdk : Main thread abused, please check stack trace below.
+08-24 10:44:29.632  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.633  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.633  3611 11052 W Battery : ThermalControlUtils: mForegroundPkg=com.example.dogglers
+08-24 10:44:29.633 31700 23961 D DataMetrics5gSa: new com.tmobile.echolocate.DataMetrics5gSa with context
+08-24 10:44:29.634 31700  7567 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-1  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:29.634 31700  7567 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-1  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:29.634  1166  1286 I VRR [FRTC]: setFrameRateTarget with [0, com.android.launcher, 0, com.oplus.battery]
+08-24 10:44:29.634  1166  1286 W VRR [FRTC]: invalid param { fps 0, proc_name com.android.launcher, strict_mode 0, description com.oplus.battery, rate_status 0, backend Surface, enable at 2022-08-24 10:44:29, disable waiting } for current status.
+08-24 10:44:29.634  1166  1286 W VRR [FRTC]: CurrentTarget size 0:
+08-24 10:44:29.634  1980  3674 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.example.dogglers multiApp = false firstStart = false launchedFromPackage = com.example.dogglers intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 } extension = Bundle[{taskId=17946, pid=24279, uid=10498}]}
+08-24 10:44:29.635 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: PRE_ON_CREATE
+08-24 10:44:29.635 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:29.635  5767 17799 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:24279, uid:10498, foregroundActivities:true
+08-24 10:44:29.636 31700 31700 W DiagSdk : Main thread abused, please check stack trace below.
+08-24 10:44:29.636  4504 15978 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:24279,uid:10498,hasForegroundActivities:1
+08-24 10:44:29.636  4504  5474 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:24279,uid:10498,hasForegroundActivities:1
+08-24 10:44:29.636 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.636 31700 23961 D DataMetrics5gSa: mPackageName = com.tmobile.echolocate, checkPermission = true
+08-24 10:44:29.636  4504  5797 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@3d20991 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+08-24 10:44:29.636  1980  2236 E AthenaService: MemoryGuardAction: handleAppChange
+08-24 10:44:29.638  1980  2067 D WindowManager: Add to mViews: DecorView@a7a590c[dogglers],pkg= com.example.dogglers
+08-24 10:44:29.638 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.638  1980  2067 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:29.639  3611 11052 W Battery : ThermalControllHandler: tempLevel=4,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+08-24 10:44:29.639  3611 11052 W Battery : ThermalControllerCenter: mSafetyState=10000
+08-24 10:44:29.639  3611 11052 W Battery : ThermalControllHandler: tempGear=4,configItemName=common_config
+08-24 10:44:29.639 12841 13821 I Finsky  : [187] gkf.a(14): com.accuweather.android: Account determined from installer data - [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.640 12841 13821 I Finsky  : [187] gkf.a(63): Billing preferred account via installer for com.accuweather.android: [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.642 10374 10518 D ZoomAppController: ignore onAppEnter: mCurrentZoomInfo is null
+08-24 10:44:29.645  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.647  1980  2067 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:29.648  1980  5352 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.oplus.hardware.charger@1.0::ICharger/default
+08-24 10:44:29.648 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: CREATED
+08-24 10:44:29.648 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:29.649 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: STARTED
+08-24 10:44:29.649  3611  5992 W Battery : ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+08-24 10:44:29.649 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:29.649  4524  4556 E oiface  : client  not found, skipped
+08-24 10:44:29.652  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.652  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.653  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.653 24316 24397 I r6.a    : url: https://www.awxcdn.com/productdata/offerings/phoenix-android/1/en-us/offerings.json
+08-24 10:44:29.655  1980  4206 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+08-24 10:44:29.656  1980  5352 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+08-24 10:44:29.656  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.657 12841 13821 I Finsky  : [187] gkf.a(14): com.accuweather.android: Account determined from installer data - [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.658 12841 13821 I Finsky  : [187] gkf.a(63): Billing preferred account via installer for com.accuweather.android: [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.658 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: RESUMED
+08-24 10:44:29.658 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:29.660 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: PAUSED
+08-24 10:44:29.660 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:29.661  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.663  1980  5352 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{de1e709 u0 com.example.dogglers/.HorizontalListActivity t17946}
+08-24 10:44:29.664  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.667  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.667  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.669 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: PRE_ON_CREATE
+08-24 10:44:29.670 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-24 10:44:29.673 24279 24279 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+08-24 10:44:29.673 24279 24279 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+08-24 10:44:29.673 24279 24279 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+08-24 10:44:29.680 24279 24279 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+08-24 10:44:29.680 24279 24279 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+08-24 10:44:29.680 24279 24279 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+08-24 10:44:29.686  1166  1166 D OplusLayer: setBuffer sequence=10665, name=Splash Screen com.example.dogglers#0
+08-24 10:44:29.686  1166  1166 I OplusLayer: VRR [FRTC] update from -1 to 0
+08-24 10:44:29.686  1980  5352 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+08-24 10:44:29.688  1166  1166 D OplusLayer: ~Layer() sequence=10653, name=Surface(name=9f94243 StatusBar)/@0xdb3beaa - animation-leash of insets_animation#1 0xb4000079c77e4f00
+08-24 10:44:29.688  1166  1166 D OplusLayer: ~Layer() sequence=10654, name=Surface(name=bca72af NavigationBar0)/@0xedb8e38 - animation-leash of insets_animation#1 0xb4000079c7741080
+08-24 10:44:29.690  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.690 31700 31700 D com.tmobile.mytmobile.echolocate.location.util.activityrecognition.DetectedActivityProvider: Location_SDK: Activity Recognition invoked
+08-24 10:44:29.697  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.701 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.702 31700 23961 D OplusRadioManager: getEchoLocateDlCarrierLog
+08-24 10:44:29.705  1913  1953 D QmiVsClient: getEchoLocateDlCarrierLog - enter
+08-24 10:44:29.705 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: CREATED
+08-24 10:44:29.705 24279 24279 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.HorizontalListActivity@f7d5535
+08-24 10:44:29.706 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: STARTED
+08-24 10:44:29.706 24279 24279 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.HorizontalListActivity@f7d5535
+08-24 10:44:29.707 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: RESUMED
+08-24 10:44:29.707 24279 24279 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.HorizontalListActivity@f7d5535
+08-24 10:44:29.710  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.711 31700 31700 D com.tmobile.mytmobile.echolocate.location.provider.FusedLocationProvider: Location_SDK: getLocationDetails
+08-24 10:44:29.713 24279 24279 D WindowManager: Add to mViews: DecorView@6c979a0[HorizontalListActivity],pkg= com.example.dogglers
+08-24 10:44:29.716  1980  4206 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:29.718 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: STOPPED
+08-24 10:44:29.718 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:29.719  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.731  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.739  1980  4206 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:29.739  1913  2533 D QmiVsClient: getEchoLocateDlCarrierLog callback - enter
+08-24 10:44:29.739  1913  1913 D VsProxy : handleMessage msg is 4001
+08-24 10:44:29.739  1913  1913 D VsProxy : getEchoLocateDlCarrierLog response cb for instance 0
+08-24 10:44:29.739  1913  1913 D VsProxy : getEchoLocateDlCarrierLog el_dl_pcell techType = 0, bandNumber = 0, arfcn = 0,                    bandwidth = 0, isPrimary = 0, isEndcAnchor = 0, modulationType = 0, transmissionMode = 0, numberLayers = 0,                    cellId = 0, pci = 0, tac = 0,
+08-24 10:44:29.739  1913  1913 D VsProxy : el_lte_dl_scc_info_list_len = 0
+08-24 10:44:29.739  1913  1913 D VsProxy : el_nr_dl_scc_info_list_len = 0
+08-24 10:44:29.740  3499  3568 E CommandException: Unrecognized subsys errno 2
+08-24 10:44:29.740  3499  3499 E Request : getEchoLocateDlCarrierLog: CommandException: com.oplus.hidlhelper.CommandException: GENERIC_FAILURE
+08-24 10:44:29.740  3499  3606 E RadioInterfaceManager: getEchoLocateDlCarrierLog. Exception e =com.oplus.hidlhelper.CommandException: GENERIC_FAILURE
+08-24 10:44:29.741 31700 23961 E com.tmobile.mytmobile.echolocate.utils.EchoLocateLog: Sa5gDataMetricsWrapper.invokeDataMetricsMethodReturnObject:12:DefaultDispatcher-worker-9   Diagnostics :Nr5g  getDlCarrierLog, Exception: NullPointerException, Message: findMethod(
+08-24 10:44:29.741 31700 23961 E com.tmobile.mytmobile.echolocate.utils.EchoLocateLog:             …voke(dataMetricsInstance) must not be null  1661355869741
+08-24 10:44:29.742  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.743 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.743 31700 23961 D OplusRadioManager: getEchoLocateUlCarrierLog
+08-24 10:44:29.743  1980  4206 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-24 10:44:29.743 18719  9407 W OplusExSystemServiceHelper: checkOplusExSystemService intent getComponent is null
+08-24 10:44:29.744  1913  1953 D QmiVsClient: getEchoLocateUlCarrierLog - enter
+08-24 10:44:29.756  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.757  1913  2533 D QmiVsClient: getEchoLocateUlCarrierLog callback - enter
+08-24 10:44:29.757  1913  1913 D VsProxy : handleMessage msg is 4001
+08-24 10:44:29.757  1913  1913 D VsProxy : getEchoLocateUlCarrierLog response cb for instance 0
+08-24 10:44:29.757  1913  1913 D VsProxy : getEchoLocateUlCarrierLog el_ul_pcell techType = 0, bandNumber = 0, arfcn = 0,                    bandwidth = 0, isPrimary = 0
+08-24 10:44:29.757  1913  1913 D VsProxy : el_lte_ul_scc_info_list_len = 0
+08-24 10:44:29.757  1913  1913 D VsProxy : el_nr_ul_scc_info_list_len = 0
+08-24 10:44:29.758  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.759  1980  2063 W ziparchive: Unable to open '/data/app/~~r46QSOob1L842YmcDFM8kA==/com.example.dogglers-_FrFu3JF5y68OU7JRdcL7A==/base.dm': No such file or directory
+08-24 10:44:29.757  3499  3568 E CommandException: Unrecognized subsys errno 2
+08-24 10:44:29.760  1980  2067 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+08-24 10:44:29.761  1980  2067 W InputManager-JNI: Input channel object 'a692ed1 Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+08-24 10:44:29.761  3499  3499 E Request : getEchoLocateUlCarrierLog: CommandException: com.oplus.hidlhelper.CommandException: GENERIC_FAILURE
+08-24 10:44:29.761  3499  3606 E RadioInterfaceManager: getEchoLocateUlCarrierLog. Exception e =com.oplus.hidlhelper.CommandException: GENERIC_FAILURE
+08-24 10:44:29.761  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.762   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:29.762  1980  2063 I ActivityTaskManager: Displayed com.example.dogglers/.HorizontalListActivity: +145ms
+08-24 10:44:29.762 31700 23961 E com.tmobile.mytmobile.echolocate.utils.EchoLocateLog: Sa5gDataMetricsWrapper.invokeDataMetricsMethodReturnObject:12:DefaultDispatcher-worker-9   Diagnostics :Nr5g  getUlCarrierLog, Exception: NullPointerException, Message: findMethod(
+08-24 10:44:29.762 31700 23961 E com.tmobile.mytmobile.echolocate.utils.EchoLocateLog:             …voke(dataMetricsInstance) must not be null  1661355869762
+08-24 10:44:29.762   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:29.764  1166  1166 D OplusLayer: setBuffer sequence=10671, name=com.example.dogglers/com.example.dogglers.HorizontalListActivity#0
+08-24 10:44:29.764  1166  1166 I OplusLayer: VRR [FRTC] update from -1 to 0
+08-24 10:44:29.764 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.764 31700 23961 D OplusRadioManager: getRrcLog
+08-24 10:44:29.764 24279 24279 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+08-24 10:44:29.765 24279 24431 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+08-24 10:44:29.765  1166  1166 D OplusLayer: ~Layer() sequence=10668, name=Surface(name=9f94243 StatusBar)/@0xdb3beaa - animation-leash of insets_animation#0 0xb4000079a5448280
+08-24 10:44:29.766  1166  1166 D OplusLayer: ~Layer() sequence=10669, name=Surface(name=bca72af NavigationBar0)/@0xedb8e38 - animation-leash of insets_animation#0 0xb4000079a5477e00
+08-24 10:44:29.767  1980  4206 I FocusResolver: updateFocusedWindow, 9288e22 com.example.dogglers/com.example.dogglers.HorizontalListActivity on display 0, reason: setFocusedWindow, result:   FocusedWindows:
+08-24 10:44:29.767  1980  4206 I FocusResolver:     displayId=0, name='9288e22 com.example.dogglers/com.example.dogglers.HorizontalListActivity'
+08-24 10:44:29.768  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.771  1913  1953 D QmiNasClient: getRrcLog : enter
+08-24 10:44:29.772  1980  4233 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.emoji.coolkeyboard/com.android.inputmethod.latin.LatinIME
+08-24 10:44:29.772  1980  4233 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+08-24 10:44:29.775  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.784  1913  1913 D NasProxy: handleMessage msg is 4001
+08-24 10:44:29.784  1913  1913 D NasProxy: getRrcLog response cb for instance 0
+08-24 10:44:29.784  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.785 31700 23961 E DataMetricsPhoneStateUtils: rat:18
+08-24 10:44:29.785 31700 23961 D DataMetricsPhoneStateUtils: LTE: false, physical link: 2
+08-24 10:44:29.785  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.785  1166  1166 D OplusLayer: ~Layer() sequence=10660, name=Surface(name=5d504d2 InputMethod)/@0x8d9ccff - animation-leash of insets_animation#1 0xb4000079c774c980
+08-24 10:44:29.786  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.787 31700 23961 E DataMetricsPhoneStateUtils: rat:18
+08-24 10:44:29.787  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.787 31700 23961 D DataMetricsPhoneStateUtils: No NR when not in NSA and SA mode
+08-24 10:44:29.787 31700 23961 D DataMetrics5gSa: RrcLog:-1, -1
+08-24 10:44:29.788 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.788 31700 23961 E DataMetricsPhoneStateUtils: getIsNrAvailable: begin
+08-24 10:44:29.792 24279 24279 I ViewInteraction: Performing 'fast swipe' action on view view.getId() is <2131230949/com.example.dogglers:id/horizontal_recycler_view>
+08-24 10:44:29.793 31700 23961 E DataMetricsPhoneStateUtils: getHasNrSecondaryServingCell: begin
+08-24 10:44:29.794 31700 23961 D DataMetrics5gSa: isNrAvailable:true
+08-24 10:44:29.794 31700 23961 D DataMetrics5gSa: hasNrSecondaryServingCell:false
+08-24 10:44:29.794  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.794 31700 23961 E DataMetricsPhoneStateUtils: rat:18
+08-24 10:44:29.794 31700 23961 D DataMetrics5gSa: NetworkLog:-1, 0
+08-24 10:44:29.795  1166  1457 D VRR [OTI]: handleIdle from 1 to 0
+08-24 10:44:29.795 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.795  1166  1457 D VRR [OTI-HW]: isStateReady 0
+08-24 10:44:29.795 31700 23961 E DataMetricsPhoneStateUtils: getWiFiCalling
+08-24 10:44:29.795  1166  1457 D VRR [OTI-HW]: rate range: min {id=0, hwcId=0, fps=60.00, width=1080, height=2400 group=0} cur {id=1, hwcId=1, fps=90.00, width=1080, height=2400 group=0} max {id=1, hwcId=1, fps=90.00, width=1080, height=2400 group=0}
+08-24 10:44:29.795  1166  1457 D VRR [OTI-HW]: keep rate.
+08-24 10:44:29.795 31700 23961 E DataMetricsPhoneStateUtils: mImsMmTelManager != null
+08-24 10:44:29.796  1980  2775 D OGG_Detector: D:done mCurrStatus: 0
+08-24 10:44:29.796 24316 24379 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=afe7362d-0dc6-40e5-a1a0-e6bd98107ad3, tags={ com.accuweather.android.notifications.latest.PersistentNotificationWorker } ]
+08-24 10:44:29.796  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.797  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.806 31700 23961 E DataMetricsPhoneStateUtils: getWiFi
+08-24 10:44:29.807 31700 23961 E DataMetricsPhoneStateUtils: getRoaming
+08-24 10:44:29.807 31700 23961 E DataMetricsPhoneStateUtils: getRTT
+08-24 10:44:29.808  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.809 31700 23961 E DataMetricsPhoneStateUtils: isRttSupported = true
+08-24 10:44:29.809 31700 23961 E DataMetricsPhoneStateUtils: getRTTTranscript
+08-24 10:44:29.810 31700 23961 E DataMetricsPhoneStateUtils: getNetworkMode
+08-24 10:44:29.812  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.812  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.814  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.814  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.814  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:29.819  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.823 31700 23961 E DataMetricsPhoneStateUtils: getWiFiCalling
+08-24 10:44:29.823 31700 23961 E DataMetricsPhoneStateUtils: mImsMmTelManager != null
+08-24 10:44:29.830  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.833 31700 23961 E DataMetricsPhoneStateUtils: getWiFi
+08-24 10:44:29.833 31700 23961 E DataMetricsPhoneStateUtils: getRoaming
+08-24 10:44:29.833 31700 23961 E DataMetricsPhoneStateUtils: getRTT
+08-24 10:44:29.835 31700 23961 E DataMetricsPhoneStateUtils: isRttSupported = true
+08-24 10:44:29.836 31700 23961 E DataMetricsPhoneStateUtils: getRTTTranscript
+08-24 10:44:29.837 31700 23961 E DataMetricsPhoneStateUtils: getNetworkMode
+08-24 10:44:29.841  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.850 31700 23961 D DataMetrics5gSa: WifiCalling:CELLULAR Wifi:ON Roaming:OFF Rtt:OFF RttTranscript:OFF NetworkMode:5G
+08-24 10:44:29.850 31700 23961 D OplusRadioManager: getCarrierConfigVersion
+08-24 10:44:29.851 31700 23961 D OplusRadioManager: getCarrierSa5gBandConfig
+08-24 10:44:29.852 31700 23961 D DataMetrics5gSa: carrierConfigVersion:2.450001
+08-24 10:44:29.852 31700 23961 D DataMetrics5gSa: carrierSa5gBandConfig:{SAn25Enabled=false, SAn41Enabled=false, SAn2Enabled=false, SAn71Enabled=true, SAn66Enabled=false}
+08-24 10:44:29.852 31700 23961 D DataMetrics5gSa: vonrSetting: -1
+08-24 10:44:29.852 31700 23961 D DataMetrics5gSa: vonrStatus: -1
+08-24 10:44:29.852  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.853 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.857  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.857 31700 23961 E DataMetricsPhoneStateUtils: getUINetworkType
+08-24 10:44:29.861  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.861 31700 23961 E DataMetricsPhoneStateUtils: getLevel
+08-24 10:44:29.863  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.865  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.866 31700 23961 E DataMetricsPhoneStateUtils: getUINetworkType
+08-24 10:44:29.869  3471  3491 D PhoneInterfaceManager: [PhoneIntfMgr] QueryTelephonyChecker-getDataNetworkTypeForSubscriber: packageName = com.tmobile.echolocate, isGrant = true
+08-24 10:44:29.870 31700 23961 E DataMetricsPhoneStateUtils: getLevel
+08-24 10:44:29.870 31700 23961 D DataMetrics5gSa: Timestamp:1661355869862 NetworkType:-2 UiNetworkType:-2 UiDataTransmission:-1 UiNumberOfAntennaBars:2
+08-24 10:44:29.873 31700 23961 D WifiManager: getScanResults check resulttrue
+08-24 10:44:29.874  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.880 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.880 31700 23961 E DataMetricsPhoneStateUtils: getWiFiCalling
+08-24 10:44:29.880 31700 23961 E DataMetricsPhoneStateUtils: mImsMmTelManager != null
+08-24 10:44:29.885  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.889 31700 23961 E DataMetricsPhoneStateUtils: getWiFi
+08-24 10:44:29.889 31700 23961 E DataMetricsPhoneStateUtils: getRoaming
+08-24 10:44:29.889 31700 23961 E DataMetricsPhoneStateUtils: getRTT
+08-24 10:44:29.891 31700 23961 E DataMetricsPhoneStateUtils: isRttSupported = true
+08-24 10:44:29.891 31700 23961 E DataMetricsPhoneStateUtils: getRTTTranscript
+08-24 10:44:29.892 31700 23961 E DataMetricsPhoneStateUtils: getNetworkMode
+08-24 10:44:29.896  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.905 31700 23961 E DataMetricsPhoneStateUtils: getWiFiCalling
+08-24 10:44:29.905 31700 23961 E DataMetricsPhoneStateUtils: mImsMmTelManager != null
+08-24 10:44:29.907  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.914 31700 23961 E DataMetricsPhoneStateUtils: getWiFi
+08-24 10:44:29.915 31700 23961 E DataMetricsPhoneStateUtils: getRoaming
+08-24 10:44:29.915 31700 23961 E DataMetricsPhoneStateUtils: getRTT
+08-24 10:44:29.917 31700 23961 E DataMetricsPhoneStateUtils: isRttSupported = true
+08-24 10:44:29.917 31700 23961 E DataMetricsPhoneStateUtils: getRTTTranscript
+08-24 10:44:29.918 31700 23961 E DataMetricsPhoneStateUtils: getNetworkMode
+08-24 10:44:29.918  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.929  1166  1166 D OplusLayer: ~Layer() sequence=10674, name=Surface(name=a692ed1 Splash Screen com.example.dogglers)/@0x78a4d0e - animation-leash of window_animation#0 0xb4000079a61b5c40
+08-24 10:44:29.929  1166  1166 D OplusLayer: ~Layer() sequence=10664, name=a692ed1 Splash Screen com.example.dogglers#0 0xb40000799cefc8c0
+08-24 10:44:29.930 31700 23961 D DataMetrics5gSa: WifiCalling:CELLULAR Wifi:ON Roaming:OFF Rtt:OFF RttTranscript:OFF NetworkMode:5G
+08-24 10:44:29.930  1166  1166 D OplusLayer: ~Layer() sequence=10665, name=Splash Screen com.example.dogglers#0 0xb4000079a5452b80
+08-24 10:44:29.930 31700 23961 D OplusRadioManager: getCarrierConfigVersion
+08-24 10:44:29.930  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.931 31700 23961 D OplusRadioManager: getCarrierSa5gBandConfig
+08-24 10:44:29.932 31700 23961 D DataMetrics5gSa: carrierConfigVersion:2.450001
+08-24 10:44:29.933 31700 23961 D DataMetrics5gSa: carrierSa5gBandConfig:{SAn25Enabled=false, SAn41Enabled=false, SAn2Enabled=false, SAn71Enabled=true, SAn66Enabled=false}
+08-24 10:44:29.933 31700 23961 D DataMetrics5gSa: vonrSetting: -1
+08-24 10:44:29.933 31700 23961 D DataMetrics5gSa: vonrStatus: -1
+08-24 10:44:29.935 31700 23961 D DataMetrics5gSa: new com.tmobile.echolocate.DataMetrics5gSa with context
+08-24 10:44:29.938 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.938 31700 23961 D DataMetrics5gSa: mPackageName = com.tmobile.echolocate, checkPermission = true
+08-24 10:44:29.939 31700 23961 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:29.941  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.944 12841 13821 I Finsky  : [187] gkf.a(14): com.accuweather.android: Account determined from installer data - [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.944 12841 13821 I Finsky  : [187] gkf.a(63): Billing preferred account via installer for com.accuweather.android: [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:29.952  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.960 18719  9407 W OplusExSystemServiceHelper: checkOplusExSystemService intent getComponent is null
+08-24 10:44:29.961  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.962  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:29.962 31700 23961 E RxBus   : No registered subscriber for event class com.tmobile.mytmobile.echolocate.configuration.events.analytics.ELAnalyticsEvent
+08-24 10:44:29.963  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.964  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:29.964  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.964  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.964  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.965  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:29.965  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:29.974  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.985  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:29.996  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.006  2991  2991 D InterruptionStateProvider: No bubble up: not allowed to bubble: 0|com.accuweather.android|1|null|10430
+08-24 10:44:30.007  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.009  2991  2991 D InterruptionStateProvider: No heads up: unimportant notification: 0|com.accuweather.android|1|null|10430
+08-24 10:44:30.009  2991  2991 D InterruptionStateProvider: No heads up: unimportant notification: 0|com.accuweather.android|1|null|10430
+08-24 10:44:30.016  2991  3220 D PeopleSpaceWidgetMgr: Sbn doesn't contain valid PeopleTileKey: null/0/com.accuweather.android
+08-24 10:44:30.018  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.029  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.034 24279 24279 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Frankie"
+08-24 10:44:30.039  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:30.039  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.040  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.040  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:30.040  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.040  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.040  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.040  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.041   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.041  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.042  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.044  1980  4206 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+08-24 10:44:30.047 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: PAUSED
+08-24 10:44:30.047 24279 24279 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.HorizontalListActivity@f7d5535
+08-24 10:44:30.048  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.050  1980  2005 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{bf1af71 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t17946}
+08-24 10:44:30.051  1980  2005 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-24 10:44:30.052  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.056  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:30.056  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.056  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.056  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:30.058 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: PRE_ON_CREATE
+08-24 10:44:30.058 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.060  2991  2991 W Settings: Setting notification_bubbles has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+08-24 10:44:30.063  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.065  2991  2991 W Settings: Setting notification_bubbles has moved from android.provider.Settings.Global to android.provider.Settings.Secure, returning read-only value.
+08-24 10:44:30.065 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: CREATED
+08-24 10:44:30.065 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.066 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: STARTED
+08-24 10:44:30.066 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.067 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: RESUMED
+08-24 10:44:30.068 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.070 24279 24279 D WindowManager: Add to mViews: DecorView@f765242[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.dogglers
+08-24 10:44:30.072  1980  2005 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:30.073  1980  2005 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+08-24 10:44:30.074  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.078  1980  4206 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:30.081  1980  4206 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-24 10:44:30.085  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.088  5421 24088 W yAF.TPLog.FrameworkUpdateListener: [com.example.dogglers.test] removed. Stop sending intent
+08-24 10:44:30.092  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.093  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.094   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.094  1980  2063 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +53ms
+08-24 10:44:30.094   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.095  1166  1166 D OplusLayer: setBuffer sequence=10678, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0
+08-24 10:44:30.095  1166  1166 I OplusLayer: VRR [FRTC] update from -1 to 0
+08-24 10:44:30.096  1166  1166 D OplusLayer: ~Layer() sequence=10651, name=Surface(name=5d504d2 InputMethod)/@0x8d9ccff - animation-leash of insets_animation#0 0xb4000079a619e200
+08-24 10:44:30.096 24279 24292 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+08-24 10:44:30.097  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.097  1980  4233 I FocusResolver: updateFocusedWindow, 742352e com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity on display 0, reason: setFocusedWindow, result:   FocusedWindows:
+08-24 10:44:30.097  1980  4233 I FocusResolver:     displayId=0, name='742352e com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity'
+08-24 10:44:30.103 24279 24312 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+08-24 10:44:30.106  1166  1166 D OplusLayer: ~Layer() sequence=10672, name=Surface(name=9f94243 StatusBar)/@0xdb3beaa - animation-leash of insets_animation#1 0xb4000079a60c2700
+08-24 10:44:30.107  1166  1166 D OplusLayer: ~Layer() sequence=10673, name=Surface(name=bca72af NavigationBar0)/@0xedb8e38 - animation-leash of insets_animation#1 0xb4000079a6158240
+08-24 10:44:30.108  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:30.108  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.108  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.109  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.109  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.109  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:30.109  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.109  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.110  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.111   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.112 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: STOPPED
+08-24 10:44:30.112 24279 24279 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.HorizontalListActivity@f7d5535
+08-24 10:44:30.112  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.113 24279 24279 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.HorizontalListActivity@f7d5535 in: DESTROYED
+08-24 10:44:30.113 24279 24279 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-24 10:44:30.115  1980  5352 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+08-24 10:44:30.119  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.121  1980  4233 W InputManager-JNI: Input channel object '9288e22 com.example.dogglers/com.example.dogglers.HorizontalListActivity (client)' was disposed without first being removed with the input manager!
+08-24 10:44:30.122 12841 13821 I Finsky  : [187] gkf.a(14): com.accuweather.android: Account determined from installer data - [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:30.122 12841 13821 I Finsky  : [187] gkf.a(63): Billing preferred account via installer for com.accuweather.android: [3m4yUVLfGdQhJUuzC4977JAdQISNBOwrXj2memlnjr8]
+08-24 10:44:30.127  1980  5352 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.emoji.coolkeyboard/com.android.inputmethod.latin.LatinIME
+08-24 10:44:30.127  1980  5352 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+08-24 10:44:30.128  1166  1166 D OplusLayer: ~Layer() sequence=10586, name=Surface(name=5d504d2 InputMethod)/@0x8d9ccff - animation-leash of insets_animation#1 0xb4000079a6189980
+08-24 10:44:30.129  1166  1166 D OplusLayer: ~Layer() sequence=10670, name=9288e22 com.example.dogglers/com.example.dogglers.HorizontalListActivity#0 0xb4000079c768f0c0
+08-24 10:44:30.129  1166  1166 D OplusLayer: ~Layer() sequence=10671, name=com.example.dogglers/com.example.dogglers.HorizontalListActivity#0 0xb4000079a61d9540
+08-24 10:44:30.129  1166  1166 D OplusLayer: ~Layer() sequence=10675, name=Surface(name=5d504d2 InputMethod)/@0x8d9ccff - animation-leash of insets_animation#0 0xb4000079a618e5c0
+08-24 10:44:30.132  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.136 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: PAUSED
+08-24 10:44:30.136 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.137  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.139  1980  5352 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{81b0860 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity t17946}
+08-24 10:44:30.140  1166  1166 D OplusLayer: ~Layer() sequence=10666, name=ActivityRecord{de1e709 u0 com.example.dogglers/.HorizontalListActivity#0 0xb4000079a60cfc40
+08-24 10:44:30.140  1980  5352 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-24 10:44:30.140  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.143  3611  3840 D AppSwitchListener: onAppEnter: Uid = 10498
+08-24 10:44:30.143  3611  3840 W AuthDialogHelper: checkNotificationSwitchFirst() called with: context = [com.oplus.notification.NotificationCenterService@2094ea], pkg = [com.example.dogglers], uid = [10498], userId = [0], init checker
+08-24 10:44:30.143  3611  3840 E AuthDialogHelper: CheckNotificationCanBeSetSecond: check com.example.dogglers , Notification master switch on, unable to pop dialog
+08-24 10:44:30.151 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3 in: DESTROYED
+08-24 10:44:30.151 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@fca66c3
+08-24 10:44:30.151  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.153  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:30.154  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.154  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.154  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:30.158  3533  3737 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+08-24 10:44:30.158 16570 16615 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+08-24 10:44:30.159 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445 in: PRE_ON_CREATE
+08-24 10:44:30.159 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445
+08-24 10:44:30.162  1166  1166 D OplusLayer: ~Layer() sequence=10667, name=Surface(name=Task=5)/@0xfb8ccd1 - animation-leash of app_transition#0 0xb4000079a5443340
+08-24 10:44:30.162  1166  1166 D OplusLayer: ~Layer() sequence=10663, name=ActivityRecord{ae695e5 u0 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity#0 0xb4000079a543d100
+08-24 10:44:30.163  1980  2005 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+08-24 10:44:30.163  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.171  1980  2002 W System  : A resource failed to call release.
+08-24 10:44:30.171  1980  2002 W System  : A resource failed to call close.
+08-24 10:44:30.171  1980  2002 W System  : A resource failed to call release.
+08-24 10:44:30.173 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445 in: CREATED
+08-24 10:44:30.174 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445
+08-24 10:44:30.174 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445 in: STARTED
+08-24 10:44:30.174 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445
+08-24 10:44:30.176 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445 in: RESUMED
+08-24 10:44:30.176 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445
+08-24 10:44:30.179 24279 24279 D WindowManager: Add to mViews: DecorView@139ffc1[InstrumentationActivityInvoker$EmptyActivity],pkg= com.example.dogglers
+08-24 10:44:30.181  1980  5352 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:30.183  1980  2002 W System  : A resource failed to call close.
+08-24 10:44:30.185  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.187  1980  5352 D OplusDisplayPolicy: com.example.dogglers, no change cutoutMode: 0
+08-24 10:44:30.191  1980  5352 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-24 10:44:30.196  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.200  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.201  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.201   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.201  1980  2063 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +95ms
+08-24 10:44:30.202   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.205  1166  1486 D SurfaceFlinger: VRR [SurfaceFlinger] setDesiredDisplayModeSpecs, from process 1980, 0, 0, 0.000000 90.000000, 0.000000 90.000000
+08-24 10:44:30.205  1166  1166 D SurfaceFlinger: VRR [SurfaceFlinger] setDesiredDisplayModeSpecsInternal: default mode ID: 0, allowGroupSwitching = 0, primary range: [0.00fps 90.00fps], app request range: [0.00fps 90.00fps]
+08-24 10:44:30.206  1166  1166 D SurfaceFlinger: VRR [SurfaceFlinger] setDesiredDisplayModeSpecsInternal: 1 (90.00fps)
+08-24 10:44:30.206  1166  1166 D SurfaceFlinger: VRR [SurfaceFlinger] setDesiredActiveMode: 90.00fps event: 1
+08-24 10:44:30.206  1166  1166 D OplusLayer: setBuffer sequence=10685, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#1
+08-24 10:44:30.206  1166  1166 I OplusLayer: VRR [FRTC] update from -1 to 0
+08-24 10:44:30.206  1166  1166 D OplusLayer: ~Layer() sequence=10679, name=Surface(name=9f94243 StatusBar)/@0xdb3beaa - animation-leash of insets_animation#0 0xb4000079a61e9e80
+08-24 10:44:30.207  1166  1166 D OplusLayer: ~Layer() sequence=10680, name=Surface(name=bca72af NavigationBar0)/@0xedb8e38 - animation-leash of insets_animation#0 0xb4000079a61ee240
+08-24 10:44:30.208  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.208  1980  5352 I FocusResolver: updateFocusedWindow, eb2eaaf com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity on display 0, reason: setFocusedWindow, result:   FocusedWindows:
+08-24 10:44:30.208  1980  5352 I FocusResolver:     displayId=0, name='eb2eaaf com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity'
+08-24 10:44:30.208 24279 24431 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+08-24 10:44:30.213 24279 24312 E BLASTBufferQueue: BLASTBufferItemConsumer::onDisconnect()
+08-24 10:44:30.214 16570 24447 I PBSessionCacheImpl: (REDACTED) Deleted sessionId[%d] from persistence.
+08-24 10:44:30.217 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: STOPPED
+08-24 10:44:30.217  4504 15978 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:3533,uid:10462,hasForegroundActivities:0
+08-24 10:44:30.217 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.217  4504  5474 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:3533,uid:10462,hasForegroundActivities:0
+08-24 10:44:30.217  1166  1166 D OplusLayer: ~Layer() sequence=10659, name=com.android.launcher/com.android.launcher.Launcher#1 0xb4000079c7746ac0
+08-24 10:44:30.218  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.219  4504  5797 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=-2ms what=2 obj=com.oplus.atlas.OplusAtlasEvent@67e70f6 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+08-24 10:44:30.219  5767 17799 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:3533, uid:10462, foregroundActivities:false
+08-24 10:44:30.219  1980  4233 D ActivityTrigger: ActivityTrigger activityPauseTrigger
+08-24 10:44:30.219 16570 16649 W SearchServiceCore: Abort, client detached.
+08-24 10:44:30.220 16570 16649 I A       : (REDACTED) cleanUpControllerScope(%s)
+08-24 10:44:30.220  3611  7123 W Battery : ThermalControlUtils: get temperature=33.051
+08-24 10:44:30.222  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:30.222  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.222  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.222  1980  4233 D Theia.NoFocusWindow: FocusWindowErrorScene CheckFreezeScreen
+08-24 10:44:30.222  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 1.
+08-24 10:44:30.222  1980  4233 I InputDispatcher: setFocusedApplication displayId=0 ActivityRecord{83a5fb6 u0 com.android.launcher/.Launcher t5}
+08-24 10:44:30.223  1132  1132 D ORMS_HAL: OrmsHalService write file /proc/sys/kernel/slide_boost_enabled - 0.
+08-24 10:44:30.223  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.223  1132  1132 E ORMS_HAL: open /sys/devices/platform/soc/soc:oplus-omrg/oplus-omrg0/ruler_enable failed(No such file or directory)
+08-24 10:44:30.223  1980  2064 V AppStateBroadcaster: sendApplicationFocusLoss:com.example.dogglers
+08-24 10:44:30.223  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hist_memory - 0.
+08-24 10:44:30.223  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_length - 0.
+08-24 10:44:30.223  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-cpu-llcc-bw/bw_hwmon/hyst_trigger_count - 0.
+08-24 10:44:30.223  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/bw_hwmon/hist_memory - 0.
+08-24 10:44:30.224  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/bw_hwmon/hyst_length - 0.
+08-24 10:44:30.224  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/class/devfreq/soc:qcom,cpu-llcc-ddr-bw/bw_hwmon/hyst_trigger_count - 0.
+08-24 10:44:30.224  1132  1132 D ORMS_HAL: OrmsHalService write file /dev/stune/foreground/schedtune.prefer_idle - 0.
+08-24 10:44:30.224  1132  1132 D ORMS_HAL: OrmsHalService write file /sys/devices/system/cpu/cpu_boost/input_boost_freq - 0:3000000 4:3000000 7:3000000.
+08-24 10:44:30.225  1980  2064 V AppStateBroadcaster: sendApplicationFocusGain:com.android.launcher
+08-24 10:44:30.226  1980  4233 D OplusDisplayPolicy: com.android.launcher, change system app cutoutMode: oplus always
+08-24 10:44:30.226 31700 23963 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-11  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:30.226 31700 23963 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-11  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:30.227 31700 31700 W DiagSdk : Main thread abused, please check stack trace below.
+08-24 10:44:30.228 31700  7567 D DataMetrics5gSa: new com.tmobile.echolocate.DataMetrics5gSa with context
+08-24 10:44:30.228  1166  1166 D OplusLayer: ~Layer() sequence=10652, name=com.android.launcher/com.android.launcher.Launcher#0 0xb4000079a5460e80
+08-24 10:44:30.229 31700 23961 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-9  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:30.229 31700 23961 I Info log: MediaSessionFileUtils$Companion.saveFileToExternalStorage:19:DefaultDispatcher-worker-9  MediaSession_SDK: No permission to read/write storage
+08-24 10:44:30.229  1980  4233 I FocusResolver: updateFocusedWindow,  on display 0, reason: NO_WINDOW, result:   FocusedWindows: <none>
+08-24 10:44:30.229 31700  7567 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:30.229 31700  7567 D DataMetrics5gSa: mPackageName = com.tmobile.echolocate, checkPermission = true
+08-24 10:44:30.229  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.230  1980  4233 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.emoji.coolkeyboard/com.android.inputmethod.latin.LatinIME
+08-24 10:44:30.230  1980  4233 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+08-24 10:44:30.230  1980  4233 D InputMethodManagerService: isSecurity: attribute.packageName=com.example.dogglers mCurMethodId=com.emoji.coolkeyboard/com.android.inputmethod.latin.LatinIME
+08-24 10:44:30.230  1980  4233 D InputMethodManagerService: isSecurity= false (  enable=false needShow=false inBlackList=false isExist=true )
+08-24 10:44:30.230  1980  4233 D InputMethodManagerService: startInputOrWindowGainedFocus:  reset Secure =false
+08-24 10:44:30.232 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445 in: PAUSED
+08-24 10:44:30.232 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@6526445
+08-24 10:44:30.233  1106  1106 E vendor.qti.hardware.perf@2.2-service: Unknown params
+08-24 10:44:30.233  1980  4206 V SensorManager: call sensorServiceCommonInterface name: setScreenShotDisable
+08-24 10:44:30.233  1980  4206 D SensorService: SensorService sensorServiceCommonInterface = setScreenShotDisable
+08-24 10:44:30.233  1980  4206 D SensorServiceImpl: SensorServiceExtImpl sensorServiceCommonInterface funcName= setScreenShotDisable , flag =0, status =0
+08-24 10:44:30.233  1980  4206 I OplusHansManager : front pkg: com.android.launcher, uid: 10462, prev pkg: com.example.dogglers, prev uid: 10498
+08-24 10:44:30.233  1980  4487 I OplusHansManager : notifyAppGoForeground, uid=10462
+08-24 10:44:30.233  1980  3008 I Osense-DecisionMaker: notifySceneToPolicy...SCENE_LAUNCHER
+08-24 10:44:30.233  1980  4487 I OplusHansManager : notifyAppGoBackground, uid=10498
+08-24 10:44:30.234  1980  3008 D Osense-DecisionMaker: getCurrentSysStats, memMb: 2163
+08-24 10:44:30.234  1980  3358 I OplusResourcePreloadManager: resume pkg: com.android.launcher, uid:10462, prev pkg: com.example.dogglers, prev uid: 10498
+08-24 10:44:30.234 31700 31700 W DiagSdk : Main thread abused, please check stack trace below.
+08-24 10:44:30.235  1980  3352 I OplusHansManager : uid=10498, pkg=com.example.dogglers enter SM
+08-24 10:44:30.235  1980  3352 I OplusHansManager : uid=10498, pkg=com.example.dogglers R enter()
+08-24 10:44:30.235 31700  7567 E DataMetricsPhoneStateUtils: isPermissionApplication - pkgName: com.tmobile.echolocate, isPrivilegedApp: true, isSystemApp: true
+08-24 10:44:30.235  1980  3674 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppExit , info = OplusAppExitInfo = {  targetName = com.example.dogglers hasResumingActivity = true resumingPackageName = com.android.launcher resumingActivityName = com.android.launcher.Launcher resumingWindowMode = 1 isResumingMultiApp = false isResumingFirstStart = false extension = Bundle[{taskId=5, uid=10462}]}
+08-24 10:44:30.236  1980  7980 D DCSEX-AppLaunchEventRecorder: onAppSwitch from = com.example.dogglers to = com.android.launcher
+08-24 10:44:30.237 10450 10467 I [0]DCS-BackgroundAppData: sendAppBgEvent: has no pkgName=com.android.launcher
+08-24 10:44:30.239  3611 11053 D AppSwitchListener: onAppExit() called !
+08-24 10:44:30.240  5767 17799 V DeepThinker: ProcessManager: onForegroundActivitiesChanged pid:3533, uid:10462, foregroundActivities:true
+08-24 10:44:30.240  4504 15978 D OplusAtlas.OplusAtlasEventDispatch: setEvent:atlas_event_on_foreground_activities_changed info:pid:3533,uid:10462,hasForegroundActivities:1
+08-24 10:44:30.241  4504  5474 D OplusAtlas.OplusAudioScene: callback success event:atlas_event_on_foreground_activities_changed eventInfo:pid:3533,uid:10462,hasForegroundActivities:1
+08-24 10:44:30.241  4504  5797 D OplusAtlas.OplusMessageHandler: handleMessage: Msg { when=0 what=2 obj=com.oplus.atlas.OplusAtlasEvent@e853cf7 target=com.oplus.atlas.OplusMessageHandler$MyHandler }
+08-24 10:44:30.241  3611 11052 W Battery : ThermalControlUtils: mForegroundPkg=com.android.launcher
+08-24 10:44:30.242  1166  1486 I VRR [FRTC]: setFrameRateTarget with [0, com.example.dogglers, 0, com.oplus.battery]
+08-24 10:44:30.242  1166  1486 W VRR [FRTC]: invalid param { fps 0, proc_name com.example.dogglers, strict_mode 0, description com.oplus.battery, rate_status 0, backend Surface, enable at 2022-08-24 10:44:30, disable waiting } for current status.
+08-24 10:44:30.242  1166  1486 W VRR [FRTC]: CurrentTarget size 0:
+08-24 10:44:30.243  3611 11052 W Battery : ThermalControllHandler: tempLevel=4,userMode=2,gameUserMode=-1,appType=-1,envTempType=0,appStates=[]
+08-24 10:44:30.243  3611 11052 W Battery : ThermalControllerCenter: mSafetyState=10000
+08-24 10:44:30.244  3611 11052 W Battery : ThermalControllHandler: tempGear=4,configItemName=common_config
+08-24 10:44:30.247  1980  5300 I android_os_HwBinder: HwBinder: Starting thread pool for getting: vendor.oplus.hardware.charger@1.0::ICharger/default
+08-24 10:44:30.249 24279 24279 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6 in: DESTROYED
+08-24 10:44:30.249 24279 24279 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.HorizontalListActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity mCallingUid=10498 }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@504e0b6
+08-24 10:44:30.250  1980  5356 D Theia.NoFocusWindow: FocusWindowErrorScene cancelCheckFreezeScreen
+08-24 10:44:30.251  3611  5992 W Battery : ThermalControllHandler: MSG_THERMAL_CONTROL_CATEGORY_CHANGED
+08-24 10:44:30.252  1980  2236 E AthenaService: MemoryGuardAction: handleAppChange
+08-24 10:44:30.253  1980  3674 V DCSEX-AppSwitchManager: OnAppSwitchObserver: onAppEnter , info = OplusAppEnterInfo = {  windowMode = 1 targetName = com.android.launcher multiApp = false firstStart = false launchedFromPackage = null intent = Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.android.launcher/.Launcher (has extras) } extension = Bundle[{taskId=5, pid=3533, uid=10462}]}
+08-24 10:44:30.253  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.254  3533  3533 D AllAppsContainerView: onDraw at = 1661355870254
+08-24 10:44:30.254 16570 29487 W OplusExSystemServiceHelper: checkOplusExSystemService intent getComponent is null
+08-24 10:44:30.255  1980  4206 W InputManager-JNI: Input channel object '742352e com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+08-24 10:44:30.256   639   639 I hwservicemanager: getTransport: Cannot find entry vendor.qti.hardware.iop@2.0::IIop/default in either framework or device VINTF manifest.
+08-24 10:44:30.261  1980  2005 D OplusDisplayPolicy: com.android.launcher, change system app cutoutMode: oplus always
+08-24 10:44:30.261  1166  1166 D OplusLayer: setBuffer sequence=10688, name=com.android.launcher/com.android.launcher.Launcher#0
+08-24 10:44:30.261  1166  1166 I OplusLayer: VRR [FRTC] update from -1 to 0
+08-24 10:44:30.262  3533 16371 D SurfaceComposerClient: VRR [FRTC] client handle [bufferId:18446744073709551615 framenumber:0] [ffffffff, ffffffff]
+08-24 10:44:30.262  1166  1166 D OplusLayer: ~Layer() sequence=10677, name=742352e com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb4000079a617cb80
+08-24 10:44:30.262  1166  1166 D OplusLayer: ~Layer() sequence=10678, name=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity#0 0xb4000079a61dff00
+08-24 10:44:30.262  1166  1166 D OplusLayer: ~Layer() sequence=10683, name=Surface(name=5d504d2 InputMethod)/@0x8d9ccff - animation-leash of insets_animation#0 0xb400007992c0d540
+08-24 10:44:30.262  1166  1166 D OplusLayer: ~Layer() sequence=10686, name=Surface(name=9f94243 StatusBar)/@0xdb3beaa - animation-leash of insets_animation#1 0xb400007992c19a80
+08-24 10:44:30.263  1166  1166 D OplusLayer: ~Layer() sequence=10687, name=Surface(name=bca72af NavigationBar0)/@0xedb8e38 - animation-leash of insets_animation#1 0xb400007992c1e300
+08-24 10:44:30.263  1166  1166 D OplusMovieIdle: updateLayerStacks,mOmiSupport is not supoort
+08-24 10:44:30.264 24279 24302 I TestRunner: finished: horizontal_scrolling(com.example.dogglers.HorizontalListTests)
